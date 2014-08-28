@@ -1,0 +1,5 @@
+Mobile_Sites
+============
+
+THESE ARE NOT FOR REUSE.  THESE ARE ALL COPYRIGHTED TO THE SITES OWNERS AND ARE NOT FREE FOR REPRODUCTION. 
+Strictly mobile sites, not responsive.
